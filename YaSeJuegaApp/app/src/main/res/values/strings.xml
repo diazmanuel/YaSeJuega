@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">YaSeJuega</string>
+    <string name="TAB_USER">INICIAR SESION</string>
+    <string name="TAB_NO_USER">INGRESAR COMO INVITADO</string>
+    <string name="TAB_SIGNIN">REGISTRATE</string>
+    <string name="TAB_START">INICIO</string>
+    <string name="TAB_RESERVATION">RESERVAS</string>
+    <string name="TAB_TOURNAMENTS">TORNEOS</string>
+    <string name="TAB_SETTINGS">AJUSTES</string>
+    <string name="TXT_BIENVENIDO">BIENVENIDO</string>
+    <string name="TXT_USUARIO">Usuario</string>
+    <string name="TXT_CONTRASEÑA">Contraseña</string>
+    <string name="TXT_NOMBRE">Nombre</string>
+    <string name="TXT_APELLIDO">Apellido</string>
+    <string name="TXT_NUMERO">Numero de telefono</string>
+    <string name="SPACE">\u0020</string>
+    <string name="BTN_INICIAR">Iniciar sesion</string>
+    <string name="BTN_FACEBOOK">Iniciar con Facebook</string>
+    <string name="BTN_REGISTRATE">Registrate</string>
+    <string name="BTN_RESERVAR">Reservar</string>
+    <string name="TXT_OLVIDO">AQUI</string>
+    <string name="TXT_TEXTO_OLVIDO">¿Olvidaste tu contraseña?</string>
+    <string name="TXT_CONC_OLVIDO">¿Olvidaste tu contraseña? AQUI</string>
+    <string name="TXT_REGISTRO">REGISTRATE</string>
+    <string name="TXT_TEXTO_REGISTRO">¿Aun no estas registrado?</string>
+    <string name="TXT_CONC_REGISTRO">¿Aun no estas registrado? REGISTRATE</string>
+    <string name="TXT_TEXTO_CONTACTO">Si tienes algun problema o sugerencia</string>
+    <string name="TXT_CONTACTO">CONTACTANOS</string>
+    <string name="TXT_CONC_CONTACTO">Si tienes algun problema o sugerencia CONTACTANOS</string>
+    <string name="TXT_BUSCAR">Buscar</string>
+    <string name="TXT_FOOTBALL">Futbol</string>
+    <string name="TXT_INICIAR">mantener sesion iniciada </string>
+
+    <string name="TXT_PARRILLA">Parrilla</string>
+    <string name="TXT_VESTUARIOS">Vestuarios</string>
+    <string name="TXT_DUCHAS">Duchas</string>
+    <string name="TXT_BUFFET">Buffet</string>
+    <string name="TXT_ESTACIONAMIENTO">Estacionamiento</string>
+
+
+    <string name="HINT_NOMBRE">Nombre</string>
+    <string name="HINT_APELLIDO">Apellido</string>
+    <string name="HINT_EMAIL">Email</string>
+    <string name="HINT_USUARIO">Usuario</string>
+    <string name="HINT_CONTRASEÑA">Contraseña</string>
+    <string name="HINT_CONFIRMAR_CONTRASEÑA">Confirmar contraseña</string>
+    <string name="HINT_TELEFONO">Celular</string>
+
+
+    <string name="LABEL_SELECCION">Seleccione</string>
+    <string name="LABEL_ZONA">Zona</string>
+    <string name="LABEL_MATERIAL">Material</string>
+    <string name="LABEL_TIPO">Tipo</string>
+    <string name="LABEL_EXTRAS">Extras</string>
+    <string name="LABEL_FECHA">Fecha</string>
+    <string name="LABEL_HORARIO">Hora</string>
+    <string name="LABEL_CANCHA">Cancha</string>
+
+    <string name="MSG_CONFIRM">Una vez realizada la reserva no podra cancelarse</string>
+    <string name="MSG_RESERVADO">Se ha realizado la reserva con exito</string>
+    <string name="MSG_NORESERVADO">No se ha podido realizar la reserva</string>
+    <string name="TIT_RESERVA">Reserva</string>
+    <string name="TIT_CONFIRM">Confirmar reserva</string>
+    <string name="LABEL_CONFIRM">Confirmar</string>
+    <string name="LABEL_CANCELAR">Cancelar</string>
+
+    <string name="NOTI_MESSAGE">Recuerde que tiene una hora para abonar la seña </string>
+    <string name="NOTI_TITLE">NUEVA RESERVA </string>
+    <string name="NOTI_CHANNEL">CH1 </string>
+    <string name="NOTI_CHANNEL_DES">Nueva reserva</string>
+    <string name="NOTI_ID">1</string>
+
+    <string name="PB_TIT">CARGANDO...</string>
+
+
+
+    <string name="LABEL_T_TORNEO">TORNEO</string>
+    <string name="LABEL_T_PREDIO">Predio</string>
+    <string name="LABEL_T_ZONA">Zona</string>
+    <string name="LABEL_T_DIRECCION">Direccion</string>
+    <string name="LABEL_T_EQUIPO">Equipo</string>
+    <string name="LABEL_T_PRECIO">Inscripcion</string>
+    <string name="LABEL_T_PARTIDO">Partido</string>
+    <string name="LABEL_T_FECHA">Inicia</string>
+    <string name="LABEL_T_TELEFONO">Telefono</string>
+
+    <string name="LABEL_R_RESERVA">RESERVA</string>
+    <string name="LABEL_R_PREDIO">Predio</string>
+    <string name="LABEL_R_ZONA">Zona</string>
+    <string name="LABEL_R_SEÑA">Seña</string>
+    <string name="LABEL_R_PRECIO">Precio</string>
+    <string name="LABEL_R_ESTADO">Estado</string>
+    <string name="LABEL_R_CANCHA">Cancha</string>
+    <string name="LABEL_R_ORDEN">Numero de Reserva</string>
+    <string name="LABEL_R_TECHADO">Techado</string>
+    <string name="LABEL_R_HORA">Hora</string>
+    <string name="LABEL_R_FECHA">Fecha</string>
+    <string name="LABEL_R_TELEFONO">Telefino</string>
+    <string name="LABEL_R_DIRECCION">Direccion</string>
+    <string name="LABEL_R_TIMESTAMP">Hora de Reserva</string>
+
+    <string name="ERROR">Usuario o contraseña invalidos </string>
+    <string name="ERROR_VACIO">Campo vacio </string>
+
+
+    <string name="LABEL_OK">OK</string>
+    <string name="LABEL_CLEAR">Limpiar</string>
+
+
+    <string name="SP_USER">USER</string>
+    <string name="SP_USERNAME">NAME</string>
+    <string name="SP_PASSWORD">PASS</string>
+    <string name="INTENT_USER_PK">USER_ID</string>
+    <string name="INTENT_USER_PK_MAP">USER_ID_MAP</string>
+    <string name="BUNDLE_PREDIO_PK">PREDIO_PK</string>
+
+    <string name="MENU_LOGOUT">LOGOUT</string>
+    <string name="MENU_CONTACTO">CONTACTANOS</string>
+    <string name="MENU_MAPA">MAPA</string>
+
+    <string name="TXT_TITLE_CONTACT">CONTACTANOS</string>
+    <string name="TXT_SUBJECT">ASUNTO</string>
+    <string name="TXT_MESSAGE">MENSAJE</string>
+    <string name="TXT_EMAIL">MAIL</string>
+    <string name="TXT_NAME">NOMBRE</string>
+    <string name="TXT_SEND">ENVIAR</string>
+
+    <string name="TXT_DEFAULT">DEFAULT</string>
+
+
+    <string name="TXT_TITLE_SEND">MENSAJE ENVIADO</string>
+    <string name="TXT_MESSAGE_SEND">NOS PONDREMOS EN CONTACTO A LA BREVEDAD DE SER NECESARIO</string>
+
+
+    <string-array name="HORARIOS">
+        <item>00:00 A 01:00</item>
+        <item>01:00 A 02:00</item>
+        <item>02:00 A 03:00</item>
+        <item>03:00 A 04:00</item>
+        <item>04:00 A 05:00</item>
+        <item>05:00 A 06:00</item>
+        <item>06:00 A 07:00</item>
+        <item>07:00 A 08:00</item>
+        <item>08:00 A 09:00</item>
+        <item>09:00 A 10:00</item>
+        <item>10:00 A 11:00</item>
+        <item>11:00 A 12:00</item>
+        <item>12:00 A 13:00</item>
+        <item>13:00 A 14:00</item>
+        <item>14:00 A 15:00</item>
+        <item>15:00 A 16:00</item>
+        <item>16:00 A 17:00</item>
+        <item>17:00 A 18:00</item>
+        <item>18:00 A 19:00</item>
+        <item>19:00 A 20:00</item>
+        <item>20:00 A 21:00</item>
+        <item>21:00 A 22:00</item>
+        <item>22:00 A 23:00</item>
+        <item>23:00 A 00:00</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="URL_BASE">http://192.168.1.1:3000</string>
+    <string name="URL_REQ_TEST">/test</string>
+    <string name="URL_REQ_TORNEOS">/torneos</string>
+    <string name="URL_REQ_RESERVAS">/reservas</string>
+    <string name="URL_REQ_LOGIN">/login</string>
+    <string name="URL_REQ_MAPA">/mapa</string>
+    <string name="URL_REQ_BUSCADOR">/buscador</string>
+    <string name="URL_REQ_BUSQUEDA">/busqueda</string>
+    <string name="URL_REQ_DISPONIBILIDAD">/disponibilidad</string>
+    <string name="URL_REQ_RESERVAR">/reservar</string>
+    <string name="URL_REQ_LOGOUT">/logout</string>
+
+
+    <string name="URL_VAR_USER">user=</string>
+    <string name="URL_VAR_PASS">pass=</string>
+    <string name="URL_VAR_PREDIO">predio=</string>
+    <string name="URL_VAR_CANCHA">cancha=</string>
+    <string name="URL_VAR_FECHA">fecha=</string>
+    <string name="URL_VAR_HORA">hora=</string>
+
+
+    <string name="URL_JSON_B_ZONA">zona</string>
+    <string name="URL_JSON_B_TIPO">tipo</string>
+    <string name="URL_JSON_B_HORA">hora</string>
+
+    <string name="URL_JSON_T_TORNEO_PK">TORNEO_PK</string>
+    <string name="URL_JSON_T_EQUIPO">EQUIPO</string>
+    <string name="URL_JSON_T_FECHA_INICIO">FECHA_INICIO</string>
+    <string name="URL_JSON_T_PRECIO">PRECIO</string>
+    <string name="URL_JSON_T_PRECIOxPARTIDO">PRECIOxPARTIDO</string>
+    <string name="URL_JSON_T_PREDIO">PREDIO</string>
+    <string name="URL_JSON_T_TELEFONO">TELEFONO</string>
+    <string name="URL_JSON_T_DIRECCION">DIRECCION</string>
+    <string name="URL_JSON_T_ZONA">ZONA</string>
+
+
+    <string name="URL_JSON_D_CANCHA_PK">CANCHA_PK</string>
+    <string name="URL_JSON_D_CANCHA">CANCHA</string>
+    <string name="URL_JSON_D_HORA">HORA</string>
+    <string name="URL_JSON_D_FECHA">FECHA</string>
+
+    <string name="URL_JSON_R_RESERVA_PK">RESERVA_PK</string>
+    <string name="URL_JSON_R_CANCHA">CANCHA</string>
+    <string name="URL_JSON_R_DIRECCION">DIRECCION</string>
+    <string name="URL_JSON_R_ESTADO">ESTADO</string>
+    <string name="URL_JSON_R_FECHA">FECHA</string>
+    <string name="URL_JSON_R_HORA">HORA</string>
+    <string name="URL_JSON_R_TELEFONO">TELEFONO</string>
+    <string name="URL_JSON_R_PRECIO">PRECIO</string>
+    <string name="URL_JSON_R_PREDIO">PREDIO</string>
+    <string name="URL_JSON_R_SENA">SENA</string>
+    <string name="URL_JSON_R_SUPERFICIE">SUPERFICIE</string>
+    <string name="URL_JSON_R_TECHADO">TECHADO</string>
+    <string name="URL_JSON_R_TIMESTAMP">TIMESTAMP</string>
+    <string name="URL_JSON_R_TIPO">TIPO</string>
+    <string name="URL_JSON_R_ZONA">ZONA</string>
+
+    <string name="URL_JSON_M_GPS">GPS</string>
+    <string name="URL_JSON_M_PREDIO">PREDIO</string>
+    <string name="URL_JSON_M_PREDIO_PK">PREDIO_PK</string>
+
+    <string name="URL_JSON_BQ_CANTIDAD">CANTIDAD</string>
+    <string name="URL_JSON_BQ_DIRECCION">DIRECCION</string>
+    <string name="URL_JSON_BQ_ZONA">ZONA</string>
+    <string name="URL_JSON_BQ_TELEFONO">TELEFONO</string>
+    <string name="URL_JSON_BQ_PREDIO">PREDIO</string>
+    <string name="URL_JSON_BQ_PREDIO_PK">PREDIO_PK</string>
+    <string name="URL_JSON_BQ_GPS">GPS</string>
+    <string name="URL_JSON_BQ_URL">URL</string>
+    <string name="URL_JSON_BQ_PRECIO">PRECIO</string>
+    <string name="URL_JSON_BQ_SEÑA">SENA</string>
+    <string name="URL_JSON_BQ_VAL">VAL</string>
+    <string name="URL_JSON_BQ_EXTRA">EXTRA</string>
+
+
+
+</resources>

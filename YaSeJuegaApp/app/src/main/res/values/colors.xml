@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="cvtIniciar">#426043</color>
+    <color name="toolbar">#426043</color>
+    <color name="statusBar">#1b1d19</color>
+    <color name="statusBarMain">#274028</color>
+    <color name="background">#b0c6ae</color>
+    <color name="background2">#ffffff</color>
+    <color name="emailSolid">#ffffff</color>
+    <color name="emailSolid2">#426043</color>
+    <color name="emailStroke">#426043</color>
+    <color name="text">#ffffff</color>
+    <color name="text2">#000000</color>
+    <color name="text3">#426043</color>
+    <color name="facebook">#00148F</color>
+    <color name="color0">#FFFFFF</color>
+    <color name="color1">#B5CEAA</color>
+    <color name="color2">#426043</color>
+    <color name="color3">#000000</color>
+    <color name="color4">#999999</color>
+    <color name="color5">#444444</color>
+    <color name="color6">#274028</color>
+
+</resources>
